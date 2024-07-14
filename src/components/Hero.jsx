@@ -46,7 +46,7 @@ const Hero = () => {
 
       <div id="cta" className="flex flex-col items-center opacity-0 translate-y-20">
         <a href="#highlights" className="btn text-black font-mono font-semibold">Buy</a>
-        <p className="font-normal text-xl font-mono flex justify-center items-center">From<FaIndianRupeeSign className="text-sm ml-2 mt-[3px]" />6,671/month or <FaIndianRupeeSign className="text-sm ml-2 mt-[3px]" />1,37,600.</p>
+        <p className="font-normal text-sm md:text-xl font-mono flex justify-center items-center">From<FaIndianRupeeSign className="text-sm ml-2 mt-[3px]" />6,671/month or <FaIndianRupeeSign className="text-sm ml-2 mt-[3px]" />1,37,600.</p>
       </div>
     </section>
   )
